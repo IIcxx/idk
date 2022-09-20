@@ -1,0 +1,15 @@
+C:\programming folder\idk\huh\huh\bin\Debug\net6.0\huh.exe
+C:\programming folder\idk\huh\huh\bin\Debug\net6.0\huh.deps.json
+C:\programming folder\idk\huh\huh\bin\Debug\net6.0\huh.runtimeconfig.json
+C:\programming folder\idk\huh\huh\bin\Debug\net6.0\huh.dll
+C:\programming folder\idk\huh\huh\bin\Debug\net6.0\huh.pdb
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.csproj.AssemblyReference.cache
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.GeneratedMSBuildEditorConfig.editorconfig
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.AssemblyInfoInputs.cache
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.AssemblyInfo.cs
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.csproj.CoreCompileInputs.cache
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.dll
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\refint\huh.dll
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.pdb
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\huh.genruntimeconfig.cache
+C:\programming folder\idk\huh\huh\obj\Debug\net6.0\ref\huh.dll
